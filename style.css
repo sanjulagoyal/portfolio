@@ -1,0 +1,43 @@
+*{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    font-size: 20px;
+}
+.heading{
+    font-family: monospace;
+    margin: 0%;
+}
+#title1{
+ color: gray;
+ font-size: 12px;
+ font-weight: lighter;  
+
+}
+#title2{
+    font-size: 35px;
+    font-weight: bolder;
+    padding: 0%;
+}
+#title3{
+    font-size: 24px;
+    font-weight: lighter;
+}
+.line{
+    border: 2px solid #c60;
+}
+#image{
+    width: 18vw;
+    height: 32vh;
+}
+section{
+    text-align: center;
+}
+body{
+    font-family:  sans-serif;
+}
+figure{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
